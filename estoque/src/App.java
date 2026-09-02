@@ -107,6 +107,7 @@ public class App {
             }
 
             if (op==5) {
+                System.out.println("-----------PROGRAMA SENDO ENCERRADO----------");
                 break;
             }
 
