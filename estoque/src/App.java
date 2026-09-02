@@ -116,15 +116,5 @@ public class App {
             control++;
         }
 
-
-
-
-
-
-
-        // System.out.println(String.format("%.2f", preco));
-
-
-
     }
 }
